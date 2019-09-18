@@ -1,0 +1,7 @@
+config/prod.json
+venv/
+
+.idea/
+.python-version
+
+__pycache__/
