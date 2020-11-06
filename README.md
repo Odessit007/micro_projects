@@ -1,2 +1,2 @@
 # projects
-Some of my projects that I want to share
+Micro-projects that were useful for some reason.
